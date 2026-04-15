@@ -2,6 +2,8 @@
 
 **Vizard.ai API Skills** provides a comprehensive set of tools and specifications to automate the transformation of long-form video content into viral short-form clips for platforms like TikTok, YouTube Shorts, and Instagram Reels.
 
+This is a universal skill set compatible with all major AI agents and developer tools, including **OpenClaw**, **Claude Code**, **OpenCode**, and **Cursor**. It provides a standardized way for any AI agent to automate professional video workflows.
+
 By leveraging AI, this skill allows developers and AI agents to identify high-engagement moments, apply professional edits automatically, and handle social media publishing—all via a streamlined REST API.
 
 ## 🚀 Core Capabilities
